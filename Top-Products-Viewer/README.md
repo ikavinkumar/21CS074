@@ -1,8 +1,20 @@
-# React + Vite
+# Top Products Viewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a web application that allows users to view and compare top products from different e-commerce companies.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display top products from multiple e-commerce companies
+- Filter products by category, price range, rating, and availability
+- Sort products by price, rating, and discount
+- View detailed information about each product
+- Responsive design for both desktop and mobile devices
+
+## Technologies Used
+
+- React.js
+- Node.js
+- Vite (for development server)
+- CSS library (e.g., Material UI, Tailwind CSS)
+
+
